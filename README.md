@@ -41,3 +41,24 @@
 - Нажмите кнопку, подключенную к PINC3, для поворота камеры вниз.
 
 Камера будет двигаться, пока удерживается соответствующая кнопка. Встроенные функции задержки предотвращают дребезг контактов.
+
+## Схемы
+
+<details><summary>Электрическая схема</summary>
+
+![Схема электрическая приципиальная](https://github.com/Zalesovsky/Surveillance-Pan-Tilt-Device/assets/49143456/3d40eff1-fda4-4b24-ad54-730851e5f6de)
+
+</details>
+
+<details><summary>Компоновка платы</summary>
+
+![Компоновка](https://github.com/Zalesovsky/Surveillance-Pan-Tilt-Device/assets/49143456/36d3414a-a679-47bf-9d56-cbbce48e9358)
+
+</details>
+
+<details><summary>Трассировка платы</summary>
+
+![Нижняя сторона](https://github.com/Zalesovsky/Surveillance-Pan-Tilt-Device/assets/49143456/1ea13bce-a902-4cf1-953e-fd1c4e98f54d)
+![Верхняя сторона](https://github.com/Zalesovsky/Surveillance-Pan-Tilt-Device/assets/49143456/51c55a39-3e1e-4d01-a0f6-fe37d7b3719c)
+
+</details>
